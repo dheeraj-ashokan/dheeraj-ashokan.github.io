@@ -1,0 +1,49 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="header">
+  <h1>ARSHIYA</h1>
+  <p>INTERN OF EALLISTO</p>
+</div>
+<img src="1.jpg" width= 100%>
+
+<div class="topnav">
+  <a href="home.pdf">HOME</a>
+  <a href="https://drive.google.com/folderview?id=1RupNBLxej-CD7h5YnaQZCg0RAPg5HBzJ">TASKS</a>
+    <a href="blog.html">BLOG</a>
+  <a href="contact.pdf" style="float:right">CONTACT</a>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>eallisto Pvt Ltd</h2>
+      <div> <img src="5.jpg" style="height:200px;"></div>
+      <p>Is an Indian company headquartered at Thrissur,Kerala,India. eallisto owns businesses in India & engaged in process automation, robotics, communication, electronics, cloud solution and DevOps. the collection of corporation activities that function as a single economic entity through a common source of control. it has five listed activities that are: eallisto automation, eallisto cloud solutions, eallisto communication, eallisto electronics and eallisto robotics.
+
+</p>
+      </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <div><img src="6.jpg" style="height:100px;"></div>
+      <p>ARSHIYA T</p>
+       <P>S7 CSEA</P> 
+        <P>MESCE</P>
+    </div>
+    <div class="card">
+      <h3>Follow EALLISTO</h3>
+          <a href="http://m.facebook.com/eallisto/">facebook</a>
+
+    </div>        
+  </div>
+</div>
+    <h1>God's own country , NOW!!!</h1>
+    <p>The heavy monsoon rains left a trail of destruction with several cities, districts, and villages in Kerala submerging under flood waters.<br>
+<b>Damage to human lives and property:</b> More than 70 people have lost their lives in the rain-related incidents so far and still counting. An immense damage to about Rs. 8, 316 crore worth of property has been caused in the incessant monsoon rains. Nearly 60,000 people who became homeless due to floods were shifted to more than 2,000 relief camps. Massive damage to the roads, houses, and other infrastructure occurred in the northern districts of the state because of the avalanches caused by persistent rain showers. 211 incidents of flash floods and landslides have been reported in Kerala in which about 324 people have lost their lives and several others injured..</p>
+     <p><button class="w3-button w3-padding-large w3-white w3-border"><b><a href="news.html" style="text-decoration: none;">READ MORE »</a></b></button></p>
+</body>
+</html>
